@@ -1,4 +1,3 @@
-online_retail_ETL
 Description:
 In this project, I constructed a comprehensive data pipeline to analyze retail sales data. The project involved several key stages:
 
